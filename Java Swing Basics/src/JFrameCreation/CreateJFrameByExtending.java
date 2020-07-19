@@ -1,6 +1,7 @@
 package JFrameCreation;
 import javax.swing.*;
 
+@SuppressWarnings("serial")
 public class CreateJFrameByExtending extends JFrame {
 	
 	CreateJFrameByExtending(){
